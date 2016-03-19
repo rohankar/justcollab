@@ -13,7 +13,7 @@ meteor update
 
 ## Deployment
 
-Deployed on Heroku.Its free and you get 500 MB of mongodb storage courtsey MLabs!
+Deployed on Heroku.Its free and you get 500 MB of mongodb storage courtesy MLabs!
 
 Follow the Steps given so well in the following links
 1. [Meteor an d Heroku](https://medium.com/@leonardykris/how-to-run-a-meteor-js-application-on-heroku-in-10-steps-7aceb12de234#.ddt6glpx8)
