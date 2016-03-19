@@ -16,9 +16,14 @@ meteor update
 Deployed on Heroku.Its free and you get 500 MB of mongodb storage courtsey MLabs!
 
 Follow the Steps given so well in the following links
-1.[Meteor an d Heroku](https://medium.com/@leonardykris/how-to-run-a-meteor-js-application-on-heroku-in-10-steps-7aceb12de234#.ddt6glpx8)
+1. [Meteor an d Heroku](https://medium.com/@leonardykris/how-to-run-a-meteor-js-application-on-heroku-in-10-steps-7aceb12de234#.ddt6glpx8)
 2. [Heroku and MongoDB](https://devcenter.heroku.com/articles/mongolab)
-3.[Check out Paperclip making log reading easy](https://devcenter.heroku.com/articles/papertrail)
+
+3. [Check out Paperclip making log reading easy](https://devcenter.heroku.com/articles/papertrail)
+
+[Meteor an d Heroku](https://medium.com/@leonardykris/how-to-run-a-meteor-js-application-on-heroku-in-10-steps-7aceb12de234#.ddt6glpx8)
+[Heroku and MongoDB](https://devcenter.heroku.com/articles/mongolab)
+[Check out Paperclip making log reading easy](https://devcenter.heroku.com/articles/papertrail)
 
 
 ## License
