@@ -1,6 +1,4 @@
-// Just a simple auth for the app so as to add feature of the private docs.
-
-        
+// Just a simple auth for the app so as to add feature of the private docs.       
 Accounts.ui.config({
     requestPermissions: {},
     extraSignupFields: [{
