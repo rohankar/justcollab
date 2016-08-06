@@ -40,9 +40,8 @@ Meteor.methods({
   addEditingUser:function(docid){
     var doc, user, eusers;
     doc = Documents.findOne({_id:docid});
-    if (!doc){return;}// no doc give up
-    if (!this.userId){return;}// no logged in user give up
-    // now I have a doc and possibly a user
+    if (!doc){return;}
+    if (!this.userId){return;}
     user = Meteor.user().profile;
     eusers = EditingUsers.findOne({docid:doc._id});
     if (!eusers){
