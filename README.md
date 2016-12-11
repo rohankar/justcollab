@@ -10,6 +10,8 @@ Meteor packages and addons are included in the package file and will auto load
 $ meteor 
 $ meteor update
 ```
+### Purpose
+Real time code collaboration. Bult in editor with various themes depending on ones preference.
 
 ## Deployment
 
